@@ -1,7 +1,7 @@
 node {  
      stage('Build AngularJS') {
         checkout scm
-        sh '''echo "Building AngularJs application....."
+        sh '''echo "Building DevOps AngularJs application....."
 echo "$WORKSPACE"
 ng build
 cd dist
