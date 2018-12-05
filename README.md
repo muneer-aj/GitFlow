@@ -1,5 +1,5 @@
 # GitFlow
 GitFlow Sample
 Sample Repo for GitFlow workflow
-Code change addition done in Feature branch
+Code changes done in Release branch : 1.0
 
